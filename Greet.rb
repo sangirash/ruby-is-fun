@@ -10,6 +10,8 @@ Class Greet
 	end	
 end
 
+#Making small change in script
+
 o = Greet.new("mat")
 
 o.hi_h
