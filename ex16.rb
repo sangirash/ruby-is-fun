@@ -2,6 +2,7 @@ filename = ARGV.first
 #STDIN.gets
 target = open(filename, 'w')
 
+
 #truncating the file
 target.truncate(0)
 
