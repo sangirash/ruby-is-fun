@@ -1,3 +1,4 @@
+
 Class Greet
 	def initialize(name = "World")
 		@name = name
