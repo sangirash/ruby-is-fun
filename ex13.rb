@@ -6,4 +6,5 @@ puts "Your third variable is: #{third}"
 
 puts "I need one more variable-- "
 fourth = STDIN.gets.chomp
+puts "just another change"
 puts "Your fourth variable is: #{fourth}"
